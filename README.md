@@ -328,11 +328,11 @@ python scripts/7_visualize_tsne.py
 If you use this project in your research, please cite:
 
 ```bibtex
-@thesis{efficient_vad_2025,
+@thesis{efficient_vad_2023,
   title={Efficient Anomaly Detection in Surveillance Videos using Pretrained CNN and Self-Supervised Learning},
-  author={Rao Abrar Nawaz},
-  year={2025},
-  institution={COMSATS University Islamabad, Lahore Campus}
+  author={Naeem Yousaf},
+  year={2023},
+  institution={COMSATS University Islamabad, Sahiwal Campus}
 }
 ```
 
